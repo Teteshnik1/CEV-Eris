@@ -97,10 +97,10 @@
 	\te = equip
 	\tf = block
 	\tb = resist
-	\tc = rest
+	\tc = stop pulling
 	\tShift+e = belt-equip
 	\tShift+q = suit-storage-equip
-	\tShift+b = bag-equip
+	\tShift+b = rest
 	\tr = throw
 	\tt = say
 	\t5 = emote
