@@ -482,6 +482,15 @@ macro "default"
 		name = "C"
 		command = "Stop-Pulling"
 	elem
+		name = "O"
+		command = "OOC"
+	elem
+		name = "L"
+		command = "LOOC"
+	elem
+		name = "M"
+		command = "Emote"
+	elem
 		name = "C+UP"
 		command = "stopSliding"
 	elem

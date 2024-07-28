@@ -103,10 +103,11 @@
 	\tShift+b = rest
 	\tr = throw
 	\tt = say
-	\t5 = emote
+	\tm = emote
 	\tx = swap-hand
 	\tz = activate held object (or y)
-	\tl = toogle flashlight
+	\tl = LOOC
+	\to = OOC
 	\tj = toggle-aiming-mode
 	\tf = cycle-intents-left
 	\tg = cycle-intents-right
