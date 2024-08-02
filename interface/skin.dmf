@@ -423,7 +423,7 @@ macro "default"
 		command = "suit-storage-equip"
 	elem
 		name = "SHIFT+B"
-		command = "rest"
+		command = "bag-equip"
 	elem
 		name = "CTRL+E"
 		command = "quick-equip"
@@ -480,6 +480,9 @@ macro "default"
 		command = "Activate-Held-Object"
 	elem
 		name = "C"
+		command = "rest"
+	elem
+		name = "SHIFT+C"
 		command = "Stop-Pulling"
 	elem
 		name = "O"
